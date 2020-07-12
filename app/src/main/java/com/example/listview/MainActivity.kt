@@ -12,8 +12,8 @@ class MainActivity : AppCompatActivity() {
 
         val arrayAdapter: ArrayAdapter<*>
         val users = arrayOf(
-                "Aswathy Shaji", "Sreepriya OS", "Suparna Suresh",
-                "Pooja Omanakuttan", "Jinu Mamachan"
+                "Algorithm", "Java", "Python",
+                "C", "PHP"
         )
 
         var mListView = userlist
